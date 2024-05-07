@@ -36,8 +36,18 @@ li.nav-item a:hover {
 /* carousel main thing */
 
 .container {
-    margin: 30px 0px;
+    margin: 30px auto;
     width: 100%;
-    height: 550px;
-    background-color: purple;
+    height: 800px;
+    /* background-color: purple; */
+}
+
+.carousel {
+    height: 100%;
+    width: 100%;
+}
+
+#carousel-image {
+    width: 100%;
+    height: 100%;
 }
